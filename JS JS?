@@ -1,0 +1,15 @@
+function LOGRES(){
+var inputLetra= document.getElementById("username").value;
+if(isNaN(inputLetra)){
+alert("login efetuado");
+}
+else{
+alert("Digite apenas LETRAS");
+}
+}
+function RESLOG(){
+var matr= new array[2]
+matr=[0]=adm
+matr[1]=159
+
+if}
